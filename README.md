@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @midhunuk
 - 👀 I’m interested in learning new things that intrests me.
-- 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on anything that i can work on.
 
 <!---
